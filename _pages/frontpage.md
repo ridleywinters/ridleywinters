@@ -1,11 +1,9 @@
 ---
 permalink: /
 layout: home
-title: Ridley Winters
-list_title: My blog posts
+title: devlog
+list_title: Entries
 ---
-
-This is my website and devlog.
 
 
 
