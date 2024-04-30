@@ -1,15 +1,13 @@
-title: My blog
-description: my blog
-author: "Ridley Winters"
+title: Ridley Winters
+description: devlog
+author: Ridley Winters
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
 
-# Minima social links
-github_username: ridleywinters
 
-# Minima: show excerpts in the frontpage
+github_username: ridleywinters
 show_excerpts: true
 
 minima:
